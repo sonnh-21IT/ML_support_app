@@ -1,0 +1,7 @@
+shiny
+pandas
+tk
+matplotlib
+streamlit
+scikit-learn
+seaborn
